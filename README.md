@@ -1,7 +1,7 @@
 <h1 align="center">👨🏻‍💻 Vladlen Falin, Web Developer  </h1>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=07a9fa&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=07a9fa&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Vladlen+Falin;I'm+from+Russia;Be+Welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=07a9fa&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Vladlen+Falin;Be+Welcome!)](https://git.io/typing-svg)
 
 <p align="center" style="color:07a9fa" > 
  Hello, I am a web developer. I really enjoy learning new technologies, and I also enjoy the process of developing and solving complex problems. At the moment I am studying YP courses and have already managed to do several projects that you can see in my repository. My hobbies: solve interesting problems, playing sports.
@@ -42,23 +42,6 @@
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=VladlenFolk&show_icons=true&count_private=true&hide_border=true&bg_color=16f546,11fadb,07a9fa&border_radius=20&hide=stars,issues" alt="Vladlen Folk github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VladlenFolk&layout=compact&hide_border=true&bg_color=16f546,11fadb,07a9fa&border_radius=20" />
-</div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=07a9fa&height=120&section=footer"/>
-
-### Studying in this moment:
-![JS](https://img.shields.io/badge/-TypeScript-090909?style=flat&logo=TypeScript)
-</div>
-<h2 style="color: #44AEFB">📊 Statistics</h2>
-<div align="center">
-
-![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
-
-</div>
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=carolbarbosa101&show_icons=true&count_private=true&hide_border=true&bg_color=16f546,11fadb,4dd631&border_radius=20" alt="Caroline Barbosa github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolbarbosa101&layout=compact&hide_border=true&bg_color=16f546,11fadb,4dd631&border_radius=20" />
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=07a9fa&height=120&section=footer"/>
