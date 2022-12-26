@@ -9,10 +9,8 @@
 
 <div align="center"  style="display:flex; justify-content:center; align-items:center; margin-bottom:30px">
 <h2 align="center" style="margin:25px 0 15px 0">⚙️Languages and Tools </h2>
-<div align="center" style="display:block; margin: 20px 0 0 10px ">
-    <img width="50px" alt="Programming Languages" src="https://user-images.githubusercontent.com/78341798/194531121-47b0119a-ce00-439d-b586-125f86acb098.png"/> 
 </div>
-</div>
+
 <div align="center"  style="display:flex; justify-content:center; margin-bottom:10px">
 
 ![JS](https://img.shields.io/badge/-Html-090909?style=flat&logo=Html5)
@@ -30,6 +28,23 @@
 
 </div>
 <div align="center"  style="margin-bottom:40px">
+
+### Studying in this moment:
+![JS](https://img.shields.io/badge/-TypeScript-090909?style=flat&logo=TypeScript)
+</div>
+<h2 style="color: #44AEFB">📊 Statistics</h2>
+<div align="center">
+
+![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
+
+</div>
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=VladlenFolk&show_icons=true&count_private=true&hide_border=true&bg_color=16f546,11fadb,07a9fa&border_radius=20&hide=stars,issues" alt="Vladlen Folk github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VladlenFolk&layout=compact&hide_border=true&bg_color=16f546,11fadb,07a9fa&border_radius=20" />
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=07a9fa&height=120&section=footer"/>
 
 ### Studying in this moment:
 ![JS](https://img.shields.io/badge/-TypeScript-090909?style=flat&logo=TypeScript)
