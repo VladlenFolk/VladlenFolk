@@ -61,6 +61,7 @@
 
 </div>
 
-![Codewars](https://github.r2v.ch/codewars?user=VladlenDefense&name=true)
+![Codewars](https://github.r2v.ch/codewars?user=VladlenDefense&theme=light&username=true)
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=07a9fa&height=120&section=footer"/>
