@@ -39,7 +39,11 @@
 
 <div  style="margin-bottom:40px">
  
-![JS](https://img.shields.io/badge/-TypeScript-090909?style=flat&logo=TypeScript)
+![TS](https://img.shields.io/badge/-TypeScript-f2ff00?style=flat&logo=TypeScript)
+![BT](https://img.shields.io/badge/-BootsTrap-f2ff00?style=flat&logo=BootsTrap)
+![WP](https://img.shields.io/badge/-WordPress-f2ff00?style=flat&logo=WordPress&logoColor=000)
+![JQ](https://img.shields.io/badge/-JQuery-f2ff00?style=flat&logo=JQuery&logoColor=07aae0)
+![Ps](https://img.shields.io/badge/-AdobePhotoshop-f2ff00?style=flat&logo=adobePhotoShop)
 
 </div>
 <h2 style="color: #44AEFB">📊 Statistics</h2>
