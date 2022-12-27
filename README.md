@@ -53,7 +53,7 @@
 
 </div>
 
-<div align="center" style="display:grid; grid-template-columns:1fr 1fr" >
+<div align="center" style="display:flex; gap:20px" >
 
 ![VF GitHub stats](https://github-readme-stats.vercel.app/api?username=VladlenFolk&show_icons=true&hide_border=true&bg_color=16f546,11fadb,07a9fa&border_radius=20&hide=stars,issues&ring_color=0004ff&text_color=000000&title_color=0004ff&icon_color=0004ff)
 
