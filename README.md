@@ -53,7 +53,7 @@
 
 </div>
 
-<div align="center" style="display:flex; gap: 5px" >
+<div align="center" style="display:flex" >
 
  <div>
   
