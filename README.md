@@ -11,7 +11,7 @@
 <h2  style="margin:25px 0 5px 0">⚙️My technology stack: </h2>
 </div>
 
-<div align="center"  style="display:flex; margin-bottom:10px">
+<div style="display:flex; margin-bottom:10px">
 
 ![HTML5](https://img.shields.io/badge/-Html5-090909?style=flat&logo=Html5)
 ![CSS3](https://img.shields.io/badge/-Css3-090909?style=flat&logo=Css3&logoColor=0678c4)
