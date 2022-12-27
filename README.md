@@ -27,7 +27,7 @@
 
 </div>
 <h2  style="margin:25px 0 15px 0">⚙️My tools: </h2>
-<div align="center"  style="display:flex;  margin-bottom:10px">
+<div   style="display:flex;  margin-bottom:10px">
 
 ![Figma](https://img.shields.io/badge/-Figma-090909?style=flat&logo=Figma)
 ![Git](https://img.shields.io/badge/-Git-090909?style=flat&logo=git)
@@ -38,7 +38,7 @@
 
 ## Studying at the moment:
 
-<div align="center"  style="margin-bottom:40px">
+<div  style="margin-bottom:40px">
  
 ![JS](https://img.shields.io/badge/-TypeScript-090909?style=flat&logo=TypeScript)
 
