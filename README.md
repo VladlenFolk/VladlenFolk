@@ -7,30 +7,42 @@
  Hello, I am a web developer. I really enjoy learning new technologies, and I also enjoy the process of developing and solving complex problems. At the moment I am studying YP courses and have already managed to do several projects that you can see in my repository. My hobbies: solve interesting problems, playing sports.
 </p>
 
-<div align="center"  style="display:flex; justify-content:center; align-items:center; margin-bottom:30px">
-<h2 align="center" style="margin:25px 0 15px 0">⚙️Languages and Tools </h2>
+<div   style="display:flex;  align-items:center; margin-bottom:10px">
+<h2  style="margin:25px 0 5px 0">⚙️My technology stack: </h2>
 </div>
 
-<div align="center"  style="display:flex; justify-content:center; margin-bottom:10px">
+<div align="center"  style="display:flex; margin-bottom:10px">
 
-![JS](https://img.shields.io/badge/-Html-090909?style=flat&logo=Html5)
-![JS](https://img.shields.io/badge/-Css-090909?style=flat&logo=Css3&logoColor=0678c4)
-![JS](https://img.shields.io/badge/-Scss/Sass-090909?style=flat&logo=Sass)
+![HTML5](https://img.shields.io/badge/-Html5-090909?style=flat&logo=Html5)
+![CSS3](https://img.shields.io/badge/-Css3-090909?style=flat&logo=Css3&logoColor=0678c4)
+![SCSS](https://img.shields.io/badge/-Scss/Sass-090909?style=flat&logo=Sass)
 ![JS](https://img.shields.io/badge/-JavaScript-090909?style=flat&logo=JavaScript)
-![JS](https://img.shields.io/badge/-React-090909?style=flat&logo=React)
-![JS](https://img.shields.io/badge/-Redux-090909?style=flat&logo=Redux&logoColor=a342db)
-![JS](https://img.shields.io/badge/-Figma-090909?style=flat&logo=Figma)
-![JS](https://img.shields.io/badge/-WebPack-090909?style=flat&logo=WebPack)
-![JS](https://img.shields.io/badge/-Git-090909?style=flat&logo=git)
-![JS](https://img.shields.io/badge/-NPM-090909?style=flat&logo=npm)
-![JS](https://img.shields.io/badge/-Yarn-090909?style=flat&logo=yarn)
+![React](https://img.shields.io/badge/-React-090909?style=flat&logo=React)
+![Redux](https://img.shields.io/badge/-Redux-090909?style=flat&logo=Redux&logoColor=a342db)
+![Webpack](https://img.shields.io/badge/-WebPack-090909?style=flat&logo=WebPack)
+![npm](https://img.shields.io/badge/-NPM-090909?style=flat&logo=npm)
+![yarn](https://img.shields.io/badge/-Yarn-090909?style=flat&logo=yarn)
+![markdown](https://img.shields.io/badge/-Markdown-090909?style=flat&logo=markdown)
 
 
 </div>
+<h2  style="margin:25px 0 15px 0">⚙️My tools: </h2>
+<div align="center"  style="display:flex;  margin-bottom:10px">
+
+![Figma](https://img.shields.io/badge/-Figma-090909?style=flat&logo=Figma)
+![Git](https://img.shields.io/badge/-Git-090909?style=flat&logo=git)
+![Vercel](https://img.shields.io/badge/-Vercel-090909?style=flat&logo=vercel)
+![Vercel](https://img.shields.io/badge/-VisualStudio-090909?style=flat&logo=VisualStudio&logoColor=0678c4)
+![Vercel](https://img.shields.io/badge/-VisualStudio-090909?style=flat&logo=ReduxToolkit)
+</div>
+
+## Studying at the moment:
+
+![JS](https://img.shields.io/badge/-TypeScript-090909?style=flat&logo=TypeScript)
+
 <div align="center"  style="margin-bottom:40px">
 
-### Studying in this moment:
-![JS](https://img.shields.io/badge/-TypeScript-090909?style=flat&logo=TypeScript)
+
 </div>
 <h2 style="color: #44AEFB">📊 Statistics</h2>
 <div align="center">
@@ -40,8 +52,11 @@
 </div>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=VladlenFolk&show_icons=true&count_private=true&hide_border=true&bg_color=16f546,11fadb,07a9fa&border_radius=20&hide=stars,issues" alt="Vladlen Folk github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VladlenFolk&layout=compact&hide_border=true&bg_color=16f546,11fadb,07a9fa&border_radius=20" />
+
+![VF GitHub stats](https://github-readme-stats.vercel.app/api?username=VladlenFolk&show_icons=true&hide_border=true&bg_color=16f546,11fadb,07a9fa&border_radius=20&hide=stars,issues&ring_color=0004ff&text_color=000000&title_color=0004ff&icon_color=0004ff)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VladlenFolk&layout=compact&hide_border=true&bg_color=16f546,11fadb,07a9fa&border_radius=20&title_color=0004ff&text_color=000000)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=07a9fa&height=120&section=footer"/>
