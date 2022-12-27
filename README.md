@@ -13,17 +13,16 @@
 
 <div style="display:flex; margin-bottom:10px">
 
-![HTML5](https://img.shields.io/badge/-Html5-11fadb?style=flat&logo=Html5)
-![CSS3](https://img.shields.io/badge/-Css3-11fadb?style=flat&logo=Css3&logoColor=0678c4)
-![SCSS](https://img.shields.io/badge/-Scss/Sass-11fadb?style=flat&logo=Sass)
-![JS](https://img.shields.io/badge/-JavaScript-11fadb?style=flat&logo=JavaScript)
-![React](https://img.shields.io/badge/-React-11fadb?style=flat&logo=React)
-![Redux](https://img.shields.io/badge/-Redux-11fadb?style=flat&logo=Redux&logoColor=a342db)
-![Webpack](https://img.shields.io/badge/-WebPack-11fadb?style=flat&logo=WebPack)
-![JS](https://img.shields.io/badge/-NPM-11fadb?style=flat&logo=npm)
-![yarn](https://img.shields.io/badge/-Yarn-11fadb?style=flat&logo=yarn)
-![markdown](https://img.shields.io/badge/-Markdown-11fadb?style=flat&logo=markdown)
-
+![HTML5](https://img.shields.io/badge/-Html5-090909?style=flat&logo=Html5)
+![CSS3](https://img.shields.io/badge/-Css3-090909?style=flat&logo=Css3&logoColor=0678c4)
+![SCSS](https://img.shields.io/badge/-Scss/Sass-090909?style=flat&logo=Sass)
+![JS](https://img.shields.io/badge/-JavaScript-090909?style=flat&logo=JavaScript)
+![React](https://img.shields.io/badge/-React-090909?style=flat&logo=React)
+![Redux](https://img.shields.io/badge/-Redux-090909?style=flat&logo=Redux&logoColor=a342db)
+![Webpack](https://img.shields.io/badge/-WebPack-090909?style=flat&logo=WebPack)
+![JS](https://img.shields.io/badge/-NPM-090909?style=flat&logo=npm)
+![yarn](https://img.shields.io/badge/-Yarn-090909?style=flat&logo=yarn)
+![markdown](https://img.shields.io/badge/-Markdown-090909?style=flat&logo=markdown)
 
 </div>
 <h2  style="margin:25px 0 15px 0">⚙️My tools: </h2>
