@@ -53,18 +53,11 @@
 
 </div>
 
-<div align="center" style="display:flex" >
+<div align="center"  >
 
- <div>
-  
 ![VF GitHub stats](https://github-readme-stats.vercel.app/api?username=VladlenFolk&show_icons=true&hide_border=true&bg_color=16f546,11fadb,07a9fa&border_radius=20&hide=stars,issues&ring_color=0004ff&text_color=000000&title_color=0004ff&icon_color=0004ff)
- </div>
- 
-<div>
- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VladlenFolk&layout=compact&hide_border=true&bg_color=16f546,11fadb,07a9fa&border_radius=20&title_color=0004ff&text_color=000000)](https://github.com/anuraghazra/github-readme-stats)
  
-</div>
 </div>
 
 <div align="center">
