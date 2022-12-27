@@ -39,6 +39,7 @@
 ## Studying at the moment:
 
 <div align="center"  style="margin-bottom:40px">
+ 
 ![JS](https://img.shields.io/badge/-TypeScript-090909?style=flat&logo=TypeScript)
 
 </div>
