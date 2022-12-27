@@ -60,6 +60,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VladlenFolk&layout=compact&hide_border=true&bg_color=16f546,11fadb,07a9fa&border_radius=20&title_color=0004ff&text_color=000000)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
-![Codewars](https://github.r2v.ch/codewars?user=USERNAME&name=true)
+![Codewars](https://github.r2v.ch/codewars?user=VladlenDefense&name=true)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=07a9fa&height=120&section=footer"/>
