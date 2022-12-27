@@ -38,10 +38,8 @@
 
 ## Studying at the moment:
 
-![JS](https://img.shields.io/badge/-TypeScript-090909?style=flat&logo=TypeScript)
-
 <div align="center"  style="margin-bottom:40px">
-
+![JS](https://img.shields.io/badge/-TypeScript-090909?style=flat&logo=TypeScript)
 
 </div>
 <h2 style="color: #44AEFB">📊 Statistics</h2>
