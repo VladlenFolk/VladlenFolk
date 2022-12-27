@@ -62,7 +62,7 @@
 
 <div align="center">
  
-![Codewars](https://github.r2v.ch/codewars?user=VladlenDefense&theme=light&username=true)
+![Codewars](https://github.r2v.ch/codewars?user=VladlenDefense&theme=light&username=true&stroke=black)
 
 </div>
 
