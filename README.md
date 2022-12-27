@@ -1,6 +1,8 @@
 <h1 align="center">👨🏻‍💻 Vladlen Falin, Web Developer  </h1>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=07a9fa&height=120&section=header"/>
 
+![Codewars](https://github.r2v.ch/codewars?user=VladlenDefense&theme=light&username=true)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=07a9fa&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Vladlen+Falin;Be+Welcome!)](https://git.io/typing-svg)
 
 <p align="center" style="color:07a9fa" > 
@@ -69,7 +71,7 @@
 
 <div align="center">
 
-![Codewars](https://github.r2v.ch/codewars?user=VladlenDefense&theme=light&username=true)
+
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=07a9fa&height=120&section=footer"/>
