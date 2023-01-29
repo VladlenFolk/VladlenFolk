@@ -17,6 +17,7 @@
 ![CSS3](https://img.shields.io/badge/-Css3-090909?style=flat&logo=Css3&logoColor=0678c4)
 ![SCSS](https://img.shields.io/badge/-Scss/Sass-090909?style=flat&logo=Sass)
 ![JS](https://img.shields.io/badge/-JavaScript-090909?style=flat&logo=JavaScript)
+![TS](https://img.shields.io/badge/-TypeScript-090909?style=flat&logo=TypeScript)
 ![React](https://img.shields.io/badge/-React-090909?style=flat&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=flat&logo=Redux&logoColor=a342db)
 ![Webpack](https://img.shields.io/badge/-WebPack-090909?style=flat&logo=WebPack)
@@ -39,7 +40,7 @@
 
 <div  style="margin-bottom:40px">
  
-![TS](https://img.shields.io/badge/-TypeScript-f2ff00?style=flat&logo=TypeScript)
+
 ![BT](https://img.shields.io/badge/-BootsTrap-f2ff00?style=flat&logo=BootsTrap)
 ![WP](https://img.shields.io/badge/-WordPress-f2ff00?style=flat&logo=WordPress&logoColor=000)
 ![JQ](https://img.shields.io/badge/-JQuery-f2ff00?style=flat&logo=JQuery&logoColor=07aae0)
