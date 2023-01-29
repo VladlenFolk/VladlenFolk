@@ -45,6 +45,7 @@
 ![WP](https://img.shields.io/badge/-WordPress-f2ff00?style=flat&logo=WordPress&logoColor=000)
 ![JQ](https://img.shields.io/badge/-JQuery-f2ff00?style=flat&logo=JQuery&logoColor=07aae0)
 ![Ps](https://img.shields.io/badge/-AdobePhotoshop-f2ff00?style=flat&logo=adobePhotoShop)
+![Tw](https://img.shields.io/badge/-Tailwind-f2ff00?style=flat&logo=Tailwind)
 
 </div>
 <h2 style="color: #44AEFB">📊 Statistics</h2>
