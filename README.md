@@ -46,6 +46,7 @@
 ![JQ](https://img.shields.io/badge/-JQuery-f2ff00?style=flat&logo=JQuery&logoColor=07aae0)
 ![Ps](https://img.shields.io/badge/-AdobePhotoshop-f2ff00?style=flat&logo=adobePhotoShop)
 ![Tw](https://img.shields.io/badge/-Tailwind-f2ff00?style=flat&logo=Tailwind)
+![Node](https://img.shields.io/badge/-Node.js-f2ff00?style=flat&logo=Node.js)
 
 </div>
 <h2 style="color: #44AEFB">📊 Statistics</h2>
