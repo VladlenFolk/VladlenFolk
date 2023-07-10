@@ -21,6 +21,7 @@
 ![React](https://img.shields.io/badge/-React-090909?style=flat&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=flat&logo=Redux&logoColor=a342db)
 ![Express](https://img.shields.io/badge/-Express-090909?style=flat&logo=Express&logoColor=a342db)
+![NestJS](https://img.shields.io/badge/-NestJS-090909?style=flat&logo=NestJS&logoColor=a342db)
 
 </div>
 <h2  style="margin:25px 0 15px 0">⚙️My tools: </h2>
