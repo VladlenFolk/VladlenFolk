@@ -20,10 +20,7 @@
 ![TS](https://img.shields.io/badge/-TypeScript-090909?style=flat&logo=TypeScript)
 ![React](https://img.shields.io/badge/-React-090909?style=flat&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=flat&logo=Redux&logoColor=a342db)
-![Webpack](https://img.shields.io/badge/-WebPack-090909?style=flat&logo=WebPack)
-![JS](https://img.shields.io/badge/-NPM-090909?style=flat&logo=npm)
-![yarn](https://img.shields.io/badge/-Yarn-090909?style=flat&logo=yarn)
-![markdown](https://img.shields.io/badge/-Markdown-090909?style=flat&logo=markdown)
+![Express](https://img.shields.io/badge/-Express-090909?style=flat&logo=Express&logoColor=a342db)
 
 </div>
 <h2  style="margin:25px 0 15px 0">⚙️My tools: </h2>
@@ -33,6 +30,10 @@
 ![Git](https://img.shields.io/badge/-Git-0004ff?style=flat&logo=git)
 ![Vercel](https://img.shields.io/badge/-Vercel-0004ff?style=flat&logo=vercel)
 ![Vercel](https://img.shields.io/badge/-VisualStudio-0004ff?style=flat&logo=VisualStudio&logoColor=0678c4)
+![Webpack](https://img.shields.io/badge/-WebPack-090909?style=flat&logo=WebPack)
+![JS](https://img.shields.io/badge/-NPM-090909?style=flat&logo=npm)
+![yarn](https://img.shields.io/badge/-Yarn-090909?style=flat&logo=yarn)
+![markdown](https://img.shields.io/badge/-Markdown-090909?style=flat&logo=markdown)
 
 </div>
 
