@@ -60,11 +60,6 @@
 [![Email](https://img.shields.io/static/v1?message=vladlen-17@yandex.ru&logo=yandex&style=for-the-badge&color=1f1e34&label=%20)](mailto:vladlen-17@yandex.ru)
 
 <h2 style="color: #44AEFB">📊 Statistics</h2>
-<div align="center">
-
-![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
-
-</div>
 
 <div align="center"  >
 
