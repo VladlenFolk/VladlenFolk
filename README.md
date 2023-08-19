@@ -57,7 +57,7 @@
 ### Contact me:
 
 [![Telegram](https://img.shields.io/static/v1?message=telegram&logo=telegram&style=for-the-badge&color=1f1e34&label=%20)](https://t.me/VladlenF)
-[![Email](https://img.shields.io/static/v1?message=vladlen-17@yandex.ru&logo=yandex&style=for-the-badge&color=1f1e34&label=%20)](vladlen-17@yandex.ru)
+[![Email](https://img.shields.io/static/v1?message=vladlen-17@yandex.ru&logo=yandex&style=for-the-badge&color=1f1e34&label=%20)](mailto:vladlen-17@yandex.ru)
 
 <h2 style="color: #44AEFB">📊 Statistics</h2>
 <div align="center">
