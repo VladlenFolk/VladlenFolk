@@ -28,11 +28,11 @@
 
 <div style="display:flex; margin-bottom:10px">
  
-![Node](https://img.shields.io/badge/-Node.js-f2ff00?style=flat&logo=Node.jsColor=19ff19)
-![Express](https://img.shields.io/badge/-Express-090909?style=flat&logo=Express&logoColor=19ff19)
-![NestJS](https://img.shields.io/badge/-NestJS-090909?style=flat&logo=NestJS&logoColor=19ff19)
-![MongoDB](https://img.shields.io/badge/-MongoDB-090909?style=flat&logo=MongoDB&logoColor=19ff19)
-![TypeOrm](https://img.shields.io/badge/-TypeOrm-090909?style=flat&logo=TypeOrm&logoColor=19ff19)
+![Node](https://img.shields.io/badge/-Node.js-19ff19?style=flat&logo=Node.jsColor)
+![Express](https://img.shields.io/badge/-Express-19ff19?style=flat&logo=Express&logoColo)
+![NestJS](https://img.shields.io/badge/-NestJS-19ff19?style=flat&logo=NestJS&logoColor)
+![MongoDB](https://img.shields.io/badge/-MongoDB-19ff19?style=flat&logo=MongoDB&logoColor)
+![TypeOrm](https://img.shields.io/badge/-TypeOrm-19ff19?style=flat&logo=TypeOrm&logoColor)
 
 </div>
 
