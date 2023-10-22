@@ -8,11 +8,7 @@
 </p>
 
 <div   style="display:flex;  align-items:center; margin-bottom:10px">
-<h1  style="margin:25px 0 5px 0">⚙️My technology stack: </h2>
-</div>
-
-<div   style="display:flex;  align-items:center; margin-bottom:10px">
-<h2  style="margin:25px 0 5px 0">⚙️Frontend stack: </h2>
+<h2  style="margin:25px 0 5px 0">⚙️My frontend stack: </h2>
 </div>
 
 <div style="display:flex; margin-bottom:10px">
@@ -24,10 +20,22 @@
 ![TS](https://img.shields.io/badge/-TypeScript-090909?style=flat&logo=TypeScript)
 ![React](https://img.shields.io/badge/-React-090909?style=flat&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=flat&logo=Redux&logoColor=a342db)
-![Express](https://img.shields.io/badge/-Express-090909?style=flat&logo=Express&logoColor=a342db)
-![NestJS](https://img.shields.io/badge/-NestJS-090909?style=flat&logo=NestJS&logoColor=a342db)
+</div>
+
+<div   style="display:flex;  align-items:center; margin-bottom:10px">
+<h2  style="margin:25px 0 5px 0">⚙️My backend stack: </h2>
+</div>
+
+<div style="display:flex; margin-bottom:10px">
+ 
+![Node](https://img.shields.io/badge/-Node.js-f2ff00?style=flat&logo=Node.jsColor=19ff19)
+![Express](https://img.shields.io/badge/-Express-090909?style=flat&logo=Express&logoColor=19ff19)
+![NestJS](https://img.shields.io/badge/-NestJS-090909?style=flat&logo=NestJS&logoColor=19ff19)
+![MongoDB](https://img.shields.io/badge/-MongoDB-090909?style=flat&logo=MongoDB&logoColor=19ff19)
+![TypeOrm](https://img.shields.io/badge/-TypeOrm-090909?style=flat&logo=TypeOrm&logoColor=19ff19)
 
 </div>
+
 <h2  style="margin:25px 0 15px 0">⚙️My tools: </h2>
 <div   style="display:flex;  margin-bottom:10px">
 
@@ -46,13 +54,11 @@
 
 <div  style="margin-bottom:40px">
  
-
 ![BT](https://img.shields.io/badge/-BootsTrap-f2ff00?style=flat&logo=BootsTrap)
 ![WP](https://img.shields.io/badge/-WordPress-f2ff00?style=flat&logo=WordPress&logoColor=000)
 ![JQ](https://img.shields.io/badge/-JQuery-f2ff00?style=flat&logo=JQuery&logoColor=07aae0)
 ![Ps](https://img.shields.io/badge/-AdobePhotoshop-f2ff00?style=flat&logo=adobePhotoShop)
 ![Tw](https://img.shields.io/badge/-Tailwind-f2ff00?style=flat&logo=Tailwind)
-![Node](https://img.shields.io/badge/-Node.js-f2ff00?style=flat&logo=Node.js)
 
 </div>
 
