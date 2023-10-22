@@ -28,11 +28,11 @@
 
 <div style="display:flex; margin-bottom:10px">
  
-![Node](https://img.shields.io/badge/-Node.js-19ff19?style=flat&logo=Node.jsColor)
-![Express](https://img.shields.io/badge/-Express-19ff19?style=flat&logo=Express&logoColo)
-![NestJS](https://img.shields.io/badge/-NestJS-19ff19?style=flat&logo=NestJS&logoColor)
-![MongoDB](https://img.shields.io/badge/-MongoDB-19ff19?style=flat&logo=MongoDB&logoColor)
-![TypeOrm](https://img.shields.io/badge/-TypeOrm-19ff19?style=flat&logo=TypeOrm&logoColor)
+![Node](https://img.shields.io/badge/-Node.js-134a0d?style=flat&logo=Node.js)
+![Express](https://img.shields.io/badge/-Express-134a0d?style=flat&logo=Express)
+![NestJS](https://img.shields.io/badge/-NestJS-134a0d?style=flat&logo=NestJS)
+![MongoDB](https://img.shields.io/badge/-MongoDB-134a0d?style=flat&logo=MongoDB&logoColor=fff)
+![TypeOrm](https://img.shields.io/badge/-TypeOrm-134a0d?style=flat&logo=TypeOrm)
 
 </div>
 
@@ -43,10 +43,10 @@
 ![Git](https://img.shields.io/badge/-Git-0004ff?style=flat&logo=git)
 ![Vercel](https://img.shields.io/badge/-Vercel-0004ff?style=flat&logo=vercel)
 ![Vercel](https://img.shields.io/badge/-VisualStudio-0004ff?style=flat&logo=VisualStudio&logoColor=0678c4)
-![Webpack](https://img.shields.io/badge/-WebPack-090909?style=flat&logo=WebPack)
-![JS](https://img.shields.io/badge/-NPM-090909?style=flat&logo=npm)
-![yarn](https://img.shields.io/badge/-Yarn-090909?style=flat&logo=yarn)
-![markdown](https://img.shields.io/badge/-Markdown-090909?style=flat&logo=markdown)
+![Webpack](https://img.shields.io/badge/-WebPack-0004ff?style=flat&logo=WebPack)
+![JS](https://img.shields.io/badge/-NPM-0004ff?style=flat&logo=npm)
+![yarn](https://img.shields.io/badge/-Yarn-0004ff?style=flat&logo=yarn)
+![markdown](https://img.shields.io/badge/-Markdown-0004ff?style=flat&logo=markdown)
 
 </div>
 
