@@ -8,7 +8,11 @@
 </p>
 
 <div   style="display:flex;  align-items:center; margin-bottom:10px">
-<h2  style="margin:25px 0 5px 0">⚙️My technology stack: </h2>
+<h1  style="margin:25px 0 5px 0">⚙️My technology stack: </h2>
+</div>
+
+<div   style="display:flex;  align-items:center; margin-bottom:10px">
+<h2  style="margin:25px 0 5px 0">⚙️Frontend stack: </h2>
 </div>
 
 <div style="display:flex; margin-bottom:10px">
