@@ -32,7 +32,7 @@
 ![Express](https://img.shields.io/badge/-Express-134a0d?style=flat&logo=Express)
 ![NestJS](https://img.shields.io/badge/-NestJS-134a0d?style=flat&logo=NestJS)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-134a0d?style=flat&logo=MongoDB&logoColor=fff)
-![TYPEORM](https://img.shields.io/badge/-TYPEORM-134a0d?style=flat&logo=TYPEORM)
+
 
 </div>
 
