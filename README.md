@@ -19,7 +19,7 @@
 ![JS](https://img.shields.io/badge/-JavaScript-090909?style=flat&logo=JavaScript)
 ![TS](https://img.shields.io/badge/-TypeScript-090909?style=flat&logo=TypeScript)
 ![React](https://img.shields.io/badge/-React-090909?style=flat&logo=React)
-![NEXT](https://img.shields.io/badge/-NEXT-090909?style=flat&logo=NEXT)
+![Next](https://img.shields.io/badge/-Next-090909?style=flat&logo=Next)
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=flat&logo=Redux&logoColor=a342db)
 </div>
 
