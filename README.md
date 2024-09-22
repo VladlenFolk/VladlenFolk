@@ -21,6 +21,7 @@
 ![React](https://img.shields.io/badge/-React-090909?style=flat&logo=React)
 ![Next.js](https://img.shields.io/badge/-Next.js-090909?style=flat&logo=Next.js)
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=flat&logo=Redux&logoColor=a342db)
+![Tw](https://img.shields.io/badge/-Tailwindcss-f2ff00?style=flat&logo=Tailwindcss)
 </div>
 
 <div   style="display:flex;  align-items:center; margin-bottom:10px">
@@ -59,7 +60,7 @@
 ![WP](https://img.shields.io/badge/-WordPress-f2ff00?style=flat&logo=WordPress&logoColor=000)
 ![JQ](https://img.shields.io/badge/-JQuery-f2ff00?style=flat&logo=JQuery&logoColor=07aae0)
 ![Ps](https://img.shields.io/badge/-AdobePhotoshop-f2ff00?style=flat&logo=adobePhotoShop)
-![Tw](https://img.shields.io/badge/-Tailwind-f2ff00?style=flat&logo=Tailwind)
+
 
 </div>
 
