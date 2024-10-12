@@ -44,23 +44,20 @@
 ![Figma](https://img.shields.io/badge/-Figma-0004ff?style=flat&logo=Figma)
 ![Git](https://img.shields.io/badge/-Git-0004ff?style=flat&logo=git)
 ![Vercel](https://img.shields.io/badge/-Vercel-0004ff?style=flat&logo=vercel)
+![BT](https://img.shields.io/badge/-BootsTrap-0004ff?style=flat&logo=BootsTrap)
 ![Vercel](https://img.shields.io/badge/-VisualStudio-0004ff?style=flat&logo=VisualStudio&logoColor=0678c4)
 ![Webpack](https://img.shields.io/badge/-WebPack-0004ff?style=flat&logo=WebPack)
 ![JS](https://img.shields.io/badge/-NPM-0004ff?style=flat&logo=npm)
 ![yarn](https://img.shields.io/badge/-Yarn-0004ff?style=flat&logo=yarn)
 ![markdown](https://img.shields.io/badge/-Markdown-0004ff?style=flat&logo=markdown)
-
+![Ps](https://img.shields.io/badge/-AdobePhotoshop--0004ff?style=flat&logo=adobePhotoShop)
 </div>
 
 ## Studying at the moment:
 
 <div  style="margin-bottom:40px">
- 
-![BT](https://img.shields.io/badge/-BootsTrap-f2ff00?style=flat&logo=BootsTrap)
 ![WP](https://img.shields.io/badge/-WordPress-f2ff00?style=flat&logo=WordPress&logoColor=000)
 ![JQ](https://img.shields.io/badge/-JQuery-f2ff00?style=flat&logo=JQuery&logoColor=07aae0)
-![Ps](https://img.shields.io/badge/-AdobePhotoshop-f2ff00?style=flat&logo=adobePhotoShop)
-
 </div>
 
 ## Mycontacts:
