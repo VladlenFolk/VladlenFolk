@@ -50,12 +50,13 @@
 ![JS](https://img.shields.io/badge/-NPM-0004ff?style=flat&logo=npm)
 ![yarn](https://img.shields.io/badge/-Yarn-0004ff?style=flat&logo=yarn)
 ![markdown](https://img.shields.io/badge/-Markdown-0004ff?style=flat&logo=markdown)
-![Ps](https://img.shields.io/badge/-AdobePhotoshop--0004ff?style=flat&logo=adobePhotoShop)
+![Ps](https://img.shields.io/badge/-AdobePhotoshop-0004ff?style=flat&logo=adobePhotoShop)
 </div>
 
 ## Studying at the moment:
 
 <div  style="margin-bottom:40px">
+ 
 ![WP](https://img.shields.io/badge/-WordPress-f2ff00?style=flat&logo=WordPress&logoColor=000)
 ![JQ](https://img.shields.io/badge/-JQuery-f2ff00?style=flat&logo=JQuery&logoColor=07aae0)
 </div>
